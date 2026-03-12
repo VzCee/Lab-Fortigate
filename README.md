@@ -6,6 +6,9 @@
 
 **Plataforma:** PNETLab
 
+**Video:**
+https://youtu.be/t7lqEKnoP2I
+
 ## 1. Topología y Direccionamiento de Red
 
 Se ha implementado una topología de red segmentada utilizando un Firewall FortiGate como núcleo de seguridad para gestionar el tráfico entre la red LAN de usuarios, la red de servidores y la salida a Internet (WAN).
