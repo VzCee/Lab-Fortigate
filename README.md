@@ -7,7 +7,7 @@
 **Plataforma:** PNETLab
 
 **Video:**
-https://youtu.be/t7lqEKnoP2I
+https://youtu.be/GtF5vRE4KxM
 
 ## 1. Topología y Direccionamiento de Red
 
